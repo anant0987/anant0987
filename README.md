@@ -1,4 +1,6 @@
-https://camo.githubusercontent.com/ee3cf11e3cf9f3fa55858daf82ea3bf67db571a676e2abb2c1b1b78d81397343/68747470733a2f2f6d656469612e74656e6f722e636f6d2f77686751774e6c56764e6b41414141692f7865726f2d636f64652e676966
+<div align="center">
+<img src="https://media.tenor.com/whgQwNlVvNkAAAAi/xero-code.gif"></img>
+</div>
 
 # 💫 About Me:
 Student of O.P jindal university <br>B.tech cse <br>Learning and exploring 
