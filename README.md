@@ -90,19 +90,6 @@ Current_Mode: Learning + Building 🚀
 </div>
 
 
----
-
-# 🏆 GitHub Achievements
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=anant0987&theme=radical&no-frame=true&row=1&column=6">
-
-</div>
-
-
----
-
 # 🐍 Contribution Snake
 
 <div align="center">
