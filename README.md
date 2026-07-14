@@ -90,15 +90,6 @@ Current_Mode: Learning + Building 🚀
 </div>
 
 
-# 🐍 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/anant0987/anant0987/output/github-contribution-grid-snake-dark.svg">
-
-</div>
-
-
 ---
 
 # 🌎 Connect With Me
